@@ -1,0 +1,41 @@
+body{
+    background-image: url(../index.jpeg);
+    background-size: cover; 
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+}
+h2{
+    text-align: center;
+}
+p{
+    font-weight: bold;
+    text-align: center;
+}
+input{
+    text-align: center;
+}
+#blue{
+    background-color: blue;
+    color: white;
+}
+#green{
+    background-color: green;
+    color: white;
+}
+#red{
+    background-color: red;
+    color: white;
+}
+#yellow{
+    background-color: yellow;
+    color: white;
+}
+#black{
+    background-color: black;
+    color: white;
+}
+#border{
+    border: solid 2px black;
+}
